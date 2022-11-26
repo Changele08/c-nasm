@@ -1,15 +1,12 @@
 /*
-±ÈÌØÁ÷Ê½¶ÁÐ´ÎÄ¼þÊµÏÖFor C++! 
-ÖÆ×÷Ê±¼ä£º2022-09-11
-°æ±¾£ºV22.09.11
-Reaky_Software¹«Ë¾ÖÆ×÷ 
-½­ËÕÄÏ¾©Reaky¼ÆËã»úÈí¼þ¹¤³ÌÓë¼¼ÊõÓÐÏÞ¹«Ë¾[ÓÐÏÞ] £¨2020~2022£© 
-°æÈ¨ËùÓÐ£ºReaky_Software 
-Í·ÎÄ¼þÐÅÏ¢£º
-ÕâÊÇÒ»¸öÄÚ²¿Í·ÎÄ¼þ£¬ÊÇdev_function_libraryº¯Êý¿âÖÐµÄÒ»¸öÍ·ÎÄ¼þ¡£
-Çë²»Òª³¢ÊÔÖ±½Óµ÷ÓÃËüµÄÍ·ÎÄ¼þÃû£¡ 
-´ËÍ·ÎÄ¼þÊÚÓèÁËÊ¹ÓÃÈ¨Àûµ«ÊÇ²¢Ã»ÓÐÊÚÓèÒÔÏÂÈ¨Àû£º¸´ÖÆ¡¢ÐÞ¸Ä¡¢·Ö·¢ºÍÏúÊÛ±¾Í·ÎÄ¼þ 
-Õâ¸öÍ·ÎÄ¼þ½ö½öÊÊÓÃÓÚC++£¡ 
+æ¯”ç‰¹æµå¼è¯»å†™æ–‡ä»¶å®žçŽ°For C++! 
+åˆ¶ä½œæ—¶é—´ï¼š2022-09-11
+ç‰ˆæœ¬ï¼šV22.09.11
+å¤´æ–‡ä»¶ä¿¡æ¯ï¼š
+è¿™æ˜¯ä¸€ä¸ªå†…éƒ¨å¤´æ–‡ä»¶ï¼Œæ˜¯dev_function_libraryå‡½æ•°åº“ä¸­çš„ä¸€ä¸ªå¤´æ–‡ä»¶ã€‚
+è¯·ä¸è¦å°è¯•ç›´æŽ¥è°ƒç”¨å®ƒçš„å¤´æ–‡ä»¶åï¼ 
+æ­¤å¤´æ–‡ä»¶æŽˆäºˆäº†ä½¿ç”¨æƒåˆ©ä½†æ˜¯å¹¶æ²¡æœ‰æŽˆäºˆä»¥ä¸‹æƒåˆ©ï¼šå¤åˆ¶ã€ä¿®æ”¹ã€åˆ†å‘å’Œé”€å”®æœ¬å¤´æ–‡ä»¶ 
+è¿™ä¸ªå¤´æ–‡ä»¶ä»…ä»…é€‚ç”¨äºŽC++ï¼ 
 */
 #ifndef __cplusplus
 	#error This library is only for C++
